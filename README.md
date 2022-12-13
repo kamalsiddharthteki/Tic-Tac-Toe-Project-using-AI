@@ -43,7 +43,7 @@ c. Technology Stack
  2. PyCharm CE
 
 
-# Brief Description of Agents
+# Detailed Description of Agents
 
 # Min-Max Algorithm
 
@@ -58,7 +58,7 @@ d. This algorithm is commonly implemented in games like Chess, Tic-Tac-Toe and s
 e. To explore the entire game, our algorithm initially uses a Depth-First Search where it goes all the way down to the terminal node and then recurses back to the top.
 
 
-# Alpha-Beta 
+# Alpha-Beta Pruning
 
 a. Alpha-beta pruning is a search technique that always attempts to decrease the number of nodes in it’s search tree that are evaluated and given by the Min-Max algorithm. 
 
